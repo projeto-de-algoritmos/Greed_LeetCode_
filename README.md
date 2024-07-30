@@ -45,3 +45,9 @@ g++ nome_do_arquivo.cpp -o nome_do_executável -Wall
 
 ## Uso 
 Para aplicar os casos de teste (in e out), basta acessar o link referente ao exercício no LeetCode e inserí-los no prompt de comando, também é possível gerar novos casos de teste, desde que cumpram os requisitos do exercício em questão.
+
+## Apresentação 
+
+A apresentação da entrega pode ser visualizada [aqui](https://unbbr.sharepoint.com/sites/Test73/Documentos%20Compartilhados/General/Recordings/Reuni%C3%A3o%20em%20_General_-20240729_234402-Grava%C3%A7%C3%A3o%20de%20Reuni%C3%A3o.mp4?web=1&referrer=Teams.TEAMS-WEB&referrerScenario=MeetingChicletGetLink.view). *
+
+* Houve um problema em relação ao upload da gravação no YouTube, assim que este for resolvido, o link será atualizado e, esta observação, removida.
