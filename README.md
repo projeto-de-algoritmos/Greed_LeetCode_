@@ -14,6 +14,12 @@ Para desenvolver o conteúdo abordado no tópico de Greed, a dupla selecionou x 
 
 ## Screenshots
 
+- [44 (Difícil) - Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/)
+<img width="734" alt="Swim in Rising Water" src="https://github.com/projeto-de-algoritmos/Greed_LeetCode_/blob/master/img/Wildcard%20Matching.jpeg">
+
+- [135 (Difícil) - Candy](https://leetcode.com/problems/candy/)
+<img width="734" alt="Swim in Rising Water" src="https://github.com/projeto-de-algoritmos/Greed_LeetCode_/blob/master/img/Candy.jpeg">
+
 ## Instalação 
 **Linguagem**: C++<br>
 **Pré-requisitos**: Compilador g++ (contido no GCC)<br>
