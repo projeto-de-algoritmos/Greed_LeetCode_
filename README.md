@@ -20,6 +20,9 @@ Para desenvolver o conteúdo abordado no tópico de Greed, a dupla selecionou x 
 - [135 (Difícil) - Candy](https://leetcode.com/problems/candy/)
 <img width="734" alt="Swim in Rising Water" src="https://github.com/projeto-de-algoritmos/Greed_LeetCode_/blob/master/img/Candy.jpeg">
 
+- [55 (Médio) - Candy](https://leetcode.com/problems/candy/)
+<img width="734" alt="Swim in Rising Water" src="https://github.com/projeto-de-algoritmos/Greed_LeetCode_/blob/master/img/Jump%20Game.jpeg">
+
 ## Instalação 
 **Linguagem**: C++<br>
 **Pré-requisitos**: Compilador g++ (contido no GCC)<br>
