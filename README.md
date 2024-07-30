@@ -17,10 +17,13 @@ Para desenvolver o conteúdo abordado no tópico de Greed, a dupla selecionou x 
 - [44 (Difícil) - Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/)
 <img width="734" alt="Swim in Rising Water" src="https://github.com/projeto-de-algoritmos/Greed_LeetCode_/blob/master/img/Wildcard%20Matching.jpeg">
 
-- [135 (Difícil) - Candy](https://leetcode.com/problems/candy/)
+- [135 (Difícil) - Candy](https://leetcode.com/problems/candy/description/)
 <img width="734" alt="Swim in Rising Water" src="https://github.com/projeto-de-algoritmos/Greed_LeetCode_/blob/master/img/Candy.jpeg">
 
-- [55 (Médio) - Candy](https://leetcode.com/problems/candy/)
+- [330 (Difícil) - Patching Array](https://leetcode.com/problems/patching-array/description/)
+<img width="734" alt="Swim in Rising Water" src="https://github.com/projeto-de-algoritmos/Greed_LeetCode_/blob/master/img/Patching%20Array.jpeg">
+
+- [55 (Médio) - Jump Game](https://leetcode.com/problems/jump-game/description/)
 <img width="734" alt="Swim in Rising Water" src="https://github.com/projeto-de-algoritmos/Greed_LeetCode_/blob/master/img/Jump%20Game.jpeg">
 
 ## Instalação 
