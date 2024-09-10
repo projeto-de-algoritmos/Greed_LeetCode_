@@ -15,7 +15,7 @@ Para desenvolver o conteúdo abordado no tópico de Programação Dinâmica, a d
 ## Screenshots
 
 - [Número (Dificuldade) - Nome](link)
-<img width="734" alt="Swim in Rising Water" src="https://github.com/projeto-de-algoritmos/Greed_LeetCode_/blob/master/img/Wildcard%20Matching.jpeg">
+<img width="734" alt="Swim in Rising Water" src="">
 
 ## Instalação 
 **Linguagem**: C++<br>
