@@ -33,7 +33,7 @@ Para desenvolver o conteúdo abordado no tópico de Greed, a dupla selecionou 4 
 ## 1. Clone o repositório 
 
 ```bash
-git clone https://github.com/projeto-de-algoritmos/grafos2_LeetCode_.git
+git clone https://github.com/projeto-de-algoritmos/Greed_LeetCode_.git
 ```
 
 ### 2. Compile o programa
